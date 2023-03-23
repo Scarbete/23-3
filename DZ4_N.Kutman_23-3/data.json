@@ -1,0 +1,65 @@
+[
+  {
+    "url": "../img/evangelion.jpg",
+    "name": "Эвангелион",
+    "series": 26,
+    "ageRating": "16+",
+    "year": "1996"
+  },
+
+  {
+    "url": "../img/titan.jpg",
+    "name": "Атака Титанов",
+    "series": 88,
+    "ageRating": "18+",
+    "year": "2013, 2017, 2018, 2020"
+  },
+
+  {
+    "url": "../img/chainsaw.jpg",
+    "name": "Человек-бензопила",
+    "series": 12,
+    "ageRating": "18+",
+    "year": "2022"
+  },
+
+  {
+    "url": "../img/deathnote.jpg",
+    "name": "Тетрадь смерти",
+    "series": 37,
+    "ageRating": "18+",
+    "year": "2006"
+  },
+
+  {
+    "url": "../img/ghoul.jpg",
+    "name": "Токийский Гуль",
+    "series": 48,
+    "ageRating": "18+",
+    "year": "2014, 2015, 2018."
+  },
+
+  {
+    "url": "../img/berserk.jpg",
+    "name": "Берсерк",
+    "series": 62,
+    "ageRating": "18+",
+    "year": "1997, 2016, 2017, 2022."
+  },
+
+  {
+    "url": "../img/myacademy.jpg",
+    "name": "Моя геройская академия",
+    "series": 137,
+    "ageRating": "16+",
+    "year": "2016, 2017, 2018, 2019, 2021, 2022."
+  },
+
+  {
+    "url": "../img/xanter.jpg",
+    "name": "Хантер х Хантер",
+    "series": 148,
+    "ageRating": "16+",
+    "year": "2011"
+  }
+]
